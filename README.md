@@ -12,7 +12,7 @@ This project demonstrates how to:
 ✔️ Load structured data into Azure Synapse for analysis  
 ✔️ Build an end-to-end scalable Azure data pipeline  
 
-It showcases real data engineering concepts like ETL (Extract-Transform-Load), data storage, and analytics using the Azure ecosystem. :contentReference[oaicite:0]{index=0}
+It showcases real data engineering concepts like ETL (Extract-Transform-Load), data storage, and analytics using the Azure ecosystem.
 
 ---
 
